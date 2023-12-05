@@ -74,6 +74,13 @@ python main.py --model ["MobileUtr", "MobileUtr-L"] --base_dir ./data/busi --tra
 If you use our code, please cite our paper:
 
 ```
-
+@misc{tang2023mobileutr,
+      title={MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation}, 
+      author={Fenghe Tang and Bingkun Nian and Jianrui Ding and Quan Quan and Jie Yang and Wei Liu and S. Kevin Zhou},
+      year={2023},
+      eprint={2312.01740},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
 ```
 
