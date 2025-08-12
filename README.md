@@ -2,7 +2,7 @@
 
 Official pytorch code for "MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation"
 
-- [ ] Code release
+- [√] Code release, please visit [this new repo](https://github.com/FengheTan9/Mobile-U-ViT) 🤓 !
 - [x] Paper release
 
 ## Introduction
